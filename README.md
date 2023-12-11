@@ -15,7 +15,6 @@ This is my personal website project, showcasing my skills, and experiences as a 
 - HTML5
 - CSS3
 - JavaScript
-- [Any additional libraries or frameworks]
 
 ## Contributing
 Contributions are welcome! 
