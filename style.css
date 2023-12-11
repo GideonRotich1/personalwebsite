@@ -4,10 +4,10 @@
 }
 
 .main{
-    width: 100px;
+    width: 100%;
     background-image: linear-gradient(to top,rgba(206, 133, 133, 0.02)50%,rgba(227, 121, 121, 0.5)100%), url(bb1.png);
-    background-position:center;
-    background-size:cover;
+    background-position: contain;
+    background-size: 100%;
     height:100vh;
 }
 
