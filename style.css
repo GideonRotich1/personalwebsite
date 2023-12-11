@@ -34,8 +34,14 @@ font-weight: bolder;
 float:left;
 margin-top: 0.5cm;
 margin-left: 5px;
+cursor: pointer;
+transition: color 0.3s ease;
 }
 
+ .icon.hover{
+    color:orange;
+        
+ }
 .menu{
 width:600px;
 float:right;
